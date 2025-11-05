@@ -854,3 +854,16 @@ body {
   z-index: 2;
   text-shadow: 0 0 10px rgba(0,0,0,0.7);
 }
+
+.video-wrapper .play-button1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-decoration: none;
+  font-size: 4rem;
+  color: #fff;
+  cursor: pointer;
+  z-index: 2;
+  text-shadow: 0 0 10px rgba(0,0,0,0.7);
+}
