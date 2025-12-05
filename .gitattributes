@@ -2,3 +2,7 @@
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
+video/*.gif filter=lfs diff=lfs merge=lfs -text
+video/*.mp4 filter=lfs diff=lfs merge=lfs -text
+video/*.m4v filter=lfs diff=lfs merge=lfs -text
+video/*.aac filter=lfs diff=lfs merge=lfs -text
